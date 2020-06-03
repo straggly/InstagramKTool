@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="instagram4j-1.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/instagram4j-1.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/instagram4j-1.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
